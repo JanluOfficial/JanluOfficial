@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JanluOfficial
-- 👀 I’m interested in Python, C# .NET, HTML and more!
+- 👀 I’m interested in Python, C# .NET, JavaScript and more!
 - 🌱 I’m currently learning a lot of Programming Languages.
 
 <!---
